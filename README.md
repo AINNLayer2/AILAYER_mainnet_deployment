@@ -1,2 +1,2 @@
-# ANVM_mainnet_deployment
-ANVM Mainnet node deployment
+# AILayer_mainnet_deployment
+AILayer Mainnet node deployment
